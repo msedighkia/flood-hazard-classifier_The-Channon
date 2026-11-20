@@ -60,28 +60,28 @@ CLASS_DESCRIPTIONS = {
     "Class 1": (
         "Minor impacts: Low-lying roads and bridges, including "
         "Tuntable Creek Road Bridge near The Channon, are likely "
-        "to be flooded. However, little or no significant water "
+        "to be waterlogged. However, very little or no water "
         "accumulation or surface runoff is expected around "
-        "The Channon Tavern."
+        "The Channon."
     ),
     "Class 2": (
-        "Localised flooding and safety risks: Roads and bridges, "
+        "Minor impacts with minor local safety risks: Roads and bridges, "
         "including Tuntable Creek Road Bridge, are likely to be "
-        "flooded, making them dangerous for vehicles and pedestrians. "
-        "Minor water accumulation or surface runoff may occur around "
+        "waterlogged."
+        "Minor water accumulation may occur around "
         "The Channon Tavern, but significant impacts on buildings "
         "and surrounding properties are not expected."
     ),
     "Class 3": (
-        "Significant localised flooding: Flooding of roads and bridges "
-        "is likely to create serious safety risks for vehicles and "
-        "pedestrians. Significant water accumulation and surface runoff "
+        "Insignificant localised impacts: Flooding of roads and bridges "
+        "is likely to create safety risks for vehicles and "
+        "pedestrians. Limited water accumulation "
         "are expected around The Channon Tavern, making walking through "
-        "garden areas difficult and potentially dangerous."
+        "garden areas difficult."
     ),
     "Class 4": (
-        "Widespread local flooding: All impacts associated with previous "
-        "classes (1 to 3) are expected. Areas close to the river, including the"
+        "Significant localised impacts: All impacts associated with previous "
+        "classes (1 to 3) are expected. Only areas close to the river, including the"
         " "
         "Tennis Club, are likely to be inundated, with flood depths of "
         "less than 1 m. Flooding may also affect road intersections "
@@ -89,7 +89,7 @@ CLASS_DESCRIPTIONS = {
         "Road intersection."
     ),
     "Class 5": (
-        "Severe flooding: All previous impacts in classes 1 to 4 are expected,"
+        "Significant widespread impacts: All previous impacts in classes 1 to 4 are expected,"
         " with flood "
         "depths increasing to approximately 1–2 m in areas close to the "
         "river, such as the Tennis Club. Significant flooding is also "
@@ -97,14 +97,14 @@ CLASS_DESCRIPTIONS = {
         "and potentially impassable."
     ),
     "Class 6": (
-        "Very severe flooding: Impacts associated with Class 5 are "
+        "Severe widespread impacts: Impacts associated with Class 5 are "
         "expected to intensify. Flood depths in areas close to the river, "
         "including the Tennis Club, are likely to exceed 2 m. Flooding "
         "is also expected to extend further inland, reaching locations "
         "such as The Channon Tavern, where depths may be less than 1 m."
     ),
     "Class 7": (
-        "Extreme flooding: All impacts associated with Class 6 are "
+        "Extreme widespread impacts: All impacts associated with Class 6 are "
         "expected to become more severe. Flooding around The Channon "
         "Tavern is likely to increase substantially, potentially reaching "
         "depths of approximately 1–2 m, with significant inundation "
