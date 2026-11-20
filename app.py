@@ -163,7 +163,7 @@ def predict_flood_hazard(total_rainfall, duration, antecedent_rainfall):
 # ============================================================
 # 4. Web User Interface
 # ============================================================
-st.title("🌧️ Rainfall-Based Flood Hazard Classification")
+st.title("🌧️ Rainfall-Based Flood Hazard Classification in The Channon (Terania Creek)")
 st.markdown(
     "Enter the rainfall event parameters below to calculate rainfall"
     " intensities and predict the flood hazard classification."
@@ -221,7 +221,7 @@ if submitted:
   m1.metric("Average Rainfall Intensity", f"{avg_int:.2f} mm/h")
   m2.metric("Estimated Maximum Intensity", f"{max_int:.2f} mm/h")
 
-  st.subheader("Predicted Flood Hazard Classification")
+  st.subheader("Most Probable Flood Hazard Class (Review the probability percentages of all classes in the graph before making a final judgement.)")
 
   # Colour-code the alert box based on severity
   description = CLASS_DESCRIPTIONS.get(
