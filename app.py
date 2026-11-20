@@ -163,7 +163,7 @@ def predict_flood_hazard(total_rainfall, duration, antecedent_rainfall):
 # ============================================================
 # 4. Web User Interface
 # ============================================================
-st.title("🌧️ Rainfall-Based Flood Hazard Classification in The Channon (Terania Creek)")
+st.title("🌧️ Rainfall-Based Flood Hazard Classification in The Channon (Developed by ANU team)")
 st.markdown(
     "Enter the rainfall event parameters below to calculate rainfall"
     " intensities and predict the flood hazard classification."
